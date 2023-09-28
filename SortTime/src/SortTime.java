@@ -6,7 +6,6 @@ import static java.lang.System.in;
 // CSE 2300-01
 // 84503 Lecture
 // Discrete Structures
-// Term Project
 // 11/22/2022
 // Justin Hale
 
